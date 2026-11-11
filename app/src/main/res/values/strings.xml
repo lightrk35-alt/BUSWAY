@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MASCARE TRANSIT</string>
+    <string name="demo_badge">نسخة تجريبية • DEMO</string>
+    <string name="app_subtitle">تتبع الملاحة الحية لحافلات معسكر - سيق</string>
+    <string name="role_driver">أنا سائق حافلة</string>
+    <string name="role_passenger">أنا شخص أنتظر حافلة</string>
+    <string name="direct_entry">دخول مباشر للرحلة</string>
+    <string name="in_service">في الخدمة</string>
+    <string name="waiting_passengers">تنتظر الركاب</string>
+    <string name="stopped">متوقف مؤقتاً</string>
+    <string name="mascara">معسكر</string>
+    <string name="sig">سيق</string>
+    <string name="route_name">طريق وطني رقم 17 (RN 17)</string>
+    <string name="bus_approaching">حافلة تتجه نحوك الآن!</string>
+    <string name="arrival_time_label">وقت الوصول المتوقع</string>
+    <string name="distance_label">المسافة المتبقية</string>
+</resources>
